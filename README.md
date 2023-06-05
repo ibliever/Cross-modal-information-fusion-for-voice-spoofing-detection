@@ -3,9 +3,13 @@ This is the implementation of the paper "Cross-modal information fusion for voic
 
 ## Authors
 · Junxiao Xue - Research Institute of Artificial Intelligence, Zhejiang Lab, Zhejiang, China. Henan Key Laboratory of Cyberspace Situation Awareness, Zhengzhou, China
+
 · Hao Zhou - School of Cyber Science and Engineering, Zhengzhou University, Zhengzhou, China
+
 · Huawei Song - School of Cyber Science and Engineering, Zhengzhou University, Zhengzhou, China
+
 · Bin Wu - School of Computer and Artificial Intelligence, Zhengzhou University, Zhengzhou, China
+
 · Lei Shi - School of Cyber Science and Engineering, Zhengzhou University, Zhengzhou, China
 
 
