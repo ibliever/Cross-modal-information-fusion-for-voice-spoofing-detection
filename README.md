@@ -5,7 +5,7 @@ This is the implementation of the paper "Cross-modal information fusion for voic
 
 ### BibTex
 
-'''bibtex
+
 @article{xue2023cross,
 
   title={Cross-modal information fusion for voice spoofing detection},
